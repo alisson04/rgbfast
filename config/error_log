@@ -1,0 +1,11 @@
+[08-Feb-2021 15:48:08 America/Fortaleza] PHP Notice:  Undefined property: PDO::$error in /home4/bsrpco90/public_html/rgbfast.bsrp.com.br/config/creates.php on line 24
+[08-Feb-2021 15:56:59 America/Fortaleza] PHP Notice:  Undefined variable: stmt in /home4/bsrpco90/public_html/rgbfast.bsrp.com.br/config/creates.php on line 62
+[08-Feb-2021 15:56:59 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function execute() on null in /home4/bsrpco90/public_html/rgbfast.bsrp.com.br/config/creates.php:62
+Stack trace:
+#0 {main}
+  thrown in /home4/bsrpco90/public_html/rgbfast.bsrp.com.br/config/creates.php on line 62
+[08-Feb-2021 15:59:47 America/Fortaleza] PHP Notice:  Undefined variable: pdo in /home4/bsrpco90/public_html/rgbfast.bsrp.com.br/config/creates.php on line 62
+[08-Feb-2021 15:59:47 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home4/bsrpco90/public_html/rgbfast.bsrp.com.br/config/creates.php:62
+Stack trace:
+#0 {main}
+  thrown in /home4/bsrpco90/public_html/rgbfast.bsrp.com.br/config/creates.php on line 62

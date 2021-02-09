@@ -1,0 +1,10 @@
+[09-Feb-2021 00:49:23 America/Fortaleza] PHP Warning:  require_once(/home4/bsrpco90/public_html/rgbfast.bsrp.com.br/ajax/config/connection.php): failed to open stream: No such file or directory in /home4/bsrpco90/public_html/rgbfast.bsrp.com.br/ajax/modal_img.php on line 2
+[09-Feb-2021 00:49:23 America/Fortaleza] PHP Fatal error:  require_once(): Failed opening required '/home4/bsrpco90/public_html/rgbfast.bsrp.com.br/ajax/config/connection.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home4/bsrpco90/public_html/rgbfast.bsrp.com.br/ajax/modal_img.php on line 2
+[09-Feb-2021 00:50:14 America/Fortaleza] PHP Warning:  require_once(/home4/bsrpco90/public_html/rgbfast.bsrp.com.br/ajax/config/connection.php): failed to open stream: No such file or directory in /home4/bsrpco90/public_html/rgbfast.bsrp.com.br/ajax/modal_img.php on line 2
+[09-Feb-2021 00:50:14 America/Fortaleza] PHP Fatal error:  require_once(): Failed opening required '/home4/bsrpco90/public_html/rgbfast.bsrp.com.br/ajax/config/connection.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home4/bsrpco90/public_html/rgbfast.bsrp.com.br/ajax/modal_img.php on line 2
+[09-Feb-2021 00:50:47 America/Fortaleza] PHP Notice:  Undefined variable: stmt in /home4/bsrpco90/public_html/rgbfast.bsrp.com.br/ajax/modal_img.php on line 12
+[09-Feb-2021 00:50:47 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function execute() on null in /home4/bsrpco90/public_html/rgbfast.bsrp.com.br/ajax/modal_img.php:12
+Stack trace:
+#0 {main}
+  thrown in /home4/bsrpco90/public_html/rgbfast.bsrp.com.br/ajax/modal_img.php on line 12
+[09-Feb-2021 00:54:32 America/Fortaleza] PHP Notice:  Undefined index: path in /home4/bsrpco90/public_html/rgbfast.bsrp.com.br/ajax/modal_img.php on line 29

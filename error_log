@@ -1,0 +1,15 @@
+[08-Feb-2021 11:02:07 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: could not find driver in /home4/bsrpco90/public_html/rgbfast.bsrp.com.br/config/connection.php:2
+Stack trace:
+#0 /home4/bsrpco90/public_html/rgbfast.bsrp.com.br/config/connection.php(2): PDO->__construct('mysqli:host=162...', 'bsrpco90_rgbfas...', 'rgbfast')
+#1 /home4/bsrpco90/public_html/rgbfast.bsrp.com.br/index.php(2): require_once('/home4/bsrpco90...')
+#2 {main}
+  thrown in /home4/bsrpco90/public_html/rgbfast.bsrp.com.br/config/connection.php on line 2
+[08-Feb-2021 16:49:36 America/Fortaleza] PHP Notice:  Undefined index: nome_2 in /home4/bsrpco90/public_html/rgbfast.bsrp.com.br/index.php on line 207
+[08-Feb-2021 17:34:00 America/Fortaleza] PHP Notice:  Undefined index: logo_footer_path in /home4/bsrpco90/public_html/rgbfast.bsrp.com.br/index.php on line 204
+[08-Feb-2021 17:35:45 America/Fortaleza] PHP Notice:  Undefined index: nome in /home4/bsrpco90/public_html/rgbfast.bsrp.com.br/index.php on line 48
+[08-Feb-2021 17:35:45 America/Fortaleza] PHP Notice:  Undefined index: logo_path in /home4/bsrpco90/public_html/rgbfast.bsrp.com.br/index.php on line 172
+[08-Feb-2021 17:35:45 America/Fortaleza] PHP Notice:  Undefined index: ddd in /home4/bsrpco90/public_html/rgbfast.bsrp.com.br/index.php on line 176
+[08-Feb-2021 17:35:45 America/Fortaleza] PHP Notice:  Undefined index: phone in /home4/bsrpco90/public_html/rgbfast.bsrp.com.br/index.php on line 176
+[08-Feb-2021 17:35:45 America/Fortaleza] PHP Notice:  Undefined index: logo_footer_path in /home4/bsrpco90/public_html/rgbfast.bsrp.com.br/index.php on line 204
+[08-Feb-2021 17:35:45 America/Fortaleza] PHP Notice:  Undefined index: descricao in /home4/bsrpco90/public_html/rgbfast.bsrp.com.br/index.php on line 206
+[08-Feb-2021 17:35:45 America/Fortaleza] PHP Notice:  Undefined index: sigla in /home4/bsrpco90/public_html/rgbfast.bsrp.com.br/index.php on line 235
